@@ -1,8 +1,8 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'InfinityCode Blog',
+  title: 'BugsFree Blog',
   author: 'Ala Marnissi',
-  headerTitle: 'infinitycode',
+  headerTitle: 'bugsfree',
   description:
     'A personal blog to share my knowledge and experiences in software development and quality assurance.',
   language: 'en-us',
