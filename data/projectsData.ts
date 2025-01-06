@@ -7,6 +7,12 @@ interface Project {
 
 const projectsData: Project[] = [
   {
+    title: 'Flask Web App for Managing Test Cases and Genarating Selenium Scripts',
+    description: `Web App build with flask that help creating and genarating selenium scripts for your Test Cases, and manage them under projects -> web pages.`,
+    imgSrc: '',
+    href: 'https://github.com/alamarnissi/flask-testCases-management',
+  },
+  {
     title: 'Acalainer - E-Learning Platform Dedicated to Professionals',
     description: `Built with Nextjs, NestJs and TypeScript, Acalainer is an online learning platform for professionals who want to automate all aspects of their educational content easily.`,
     imgSrc: '',
