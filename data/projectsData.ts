@@ -7,6 +7,12 @@ interface Project {
 
 const projectsData: Project[] = [
   {
+    title: 'Univex - Web App for Managing Universities',
+    description: `Web App build with Nextjs and TypeScript that help managing universities.`,
+    imgSrc: '',
+    href: 'https://github.com/alamarnissi/univex-university-management',
+  },
+  {
     title: 'Flask Web App for Managing Test Cases and Genarating Selenium Scripts',
     description: `Web App build with flask that help creating and genarating selenium scripts for your Test Cases, and manage them under projects -> web pages.`,
     imgSrc: '',
