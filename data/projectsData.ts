@@ -37,6 +37,18 @@ const projectsData: Project[] = [
     imgSrc: '',
     href: 'https://github.com/alamarnissi/shop-ify-theme',
   },
+  {
+    title: 'Gioseppo Tunisie',
+    description: `An ecommerce website made with Prestashop.`,
+    imgSrc: '',
+    href: 'https://www.gioseppotunisie.com',
+  },
+  {
+    title: 'Merkado Tunisie',
+    description: `An ecommerce website made with Prestashop.`,
+    imgSrc: '',
+    href: 'https://www.merkado.tn/',
+  },
 ]
 
 export default projectsData
